@@ -1,0 +1,1 @@
+Repo contains note of Udacity course: [AI Programming with Python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
