@@ -88,7 +88,30 @@ Repo contains note of Udacity course: [AI Programming with Python Nanodegree](ht
     - Pairplot
     - Line plot
 
+## L4 Linear Algebra
+
+1. [Introduction to Linear Algebra](https://github.com/jeswingeorge/AI-programming-with-python/blob/main/L4%20Linear%20algebra/1.%20Introduction.md)
+
+2. [Vectors](https://github.com/jeswingeorge/AI-programming-with-python/blob/main/L4%20Linear%20algebra/2.%20Vectors.md)
+
+3. [Linear combination](https://github.com/jeswingeorge/AI-programming-with-python/blob/main/L4%20Linear%20algebra/3.%20Linear%20combination.md)
+    - Basis vectors and Span of a vector
+    - Linear Combinations 
+    
+
+4. [Matrices](https://github.com/jeswingeorge/AI-programming-with-python/blob/main/L4%20Linear%20algebra/4.%20Linear%20transformation%20nd%20matrices.md)
 
 
+5. [Vectors Lab]()
 
+6. [Vectors Lab Solution]()
 
+7. [Linear combinations]()
+    - Solving system of linear equations using NumPy and graphically
+    - Cases where the resultant vector will be in span or not in span
+
+8. [Linear Mapping LAB: Visualizing Matrix Multiplication]()
+    visualize the process of matrix multiplication with a simple example in Python
+
+9. [Linear Mapping LAB: Matrix Multiplication]()
+    you will be solving a more complex problem using matrix multiplication in Python
