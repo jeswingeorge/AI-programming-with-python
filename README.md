@@ -113,5 +113,7 @@ Repo contains note of Udacity course: [AI Programming with Python Nanodegree](ht
 8. [Linear Mapping LAB: Visualizing Matrix Multiplication]()
     visualize the process of matrix multiplication with a simple example in Python
 
-9. [Linear Mapping LAB: Matrix Multiplication]()
+9. [Linear Mapping LAB: Real life problem solving using Matrix Multiplication]()
     you will be solving a more complex problem using matrix multiplication in Python
+
+10. [Linear Algebra in neural networks]()
